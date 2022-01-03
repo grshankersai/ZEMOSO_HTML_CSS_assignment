@@ -1,0 +1,170 @@
+body{
+    margin: 0;
+    text-align: center;
+    background-color: #E4F9F5;
+}
+
+div{
+    background-color: #E4F9F5;
+}
+h1{
+    margin-top: 0;
+    font-size: 340%;
+    font-family: 'Merriweather', serif;
+    color: #66BFBF;
+    line-height: 2;
+}
+h2{
+    font-family: 'Montserrat', sans-serif;
+    color: #66BFBF;
+    
+   
+}
+
+h3{
+    font-family: 'Montserrat', sans-serif;
+    color: #11999E;
+}
+a{
+    color: #11999E;
+}
+.top{
+    padding-top: 200px;
+    padding-bottom: 50px;
+}
+
+.middle{
+    height: 200px;
+    width: 200px;
+    background-color: red;
+}
+
+.bottom{
+    height:200px;
+    width: 200px;
+    background-color: blue;
+}
+
+.cloud2{
+    position: absolute;
+    left:300px;
+    top:350px;
+    
+}
+
+.cloud1{
+    position:absolute;
+    right:300px;
+    top:100px;
+}
+
+.skills{
+    margin-top: 150px;
+
+}
+
+.skill-row{
+    width:50%;
+    margin: 100px auto 250px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+.skill-image1{
+    width:25%;
+    float: left;
+    padding-right: 50px;
+}
+.skill-image2{
+    width:25%;
+    float: left;
+    padding-right: 50px;
+    
+}
+
+hr{
+    height:0%;
+    border-style: dotted none none none;
+    width:20%;
+    margin-top: 50px ;
+    border-width: 4px;
+    margin-bottom: 50px;
+    border-color: grey;
+    
+    
+}
+
+.profile-image{
+    width:200px;
+    height:200px;
+    border-radius: 50%;
+
+}
+
+.bottom-container{
+    line-height: 2;
+}
+
+
+
+.aboutme{
+    position:absolute;
+    left:630px;
+    top:50px;
+    
+}
+.aboutme:hover{
+    background-color: white;
+    padding:5px;
+    
+}
+
+.contactme{
+    position:absolute;
+    left:730px;
+    top:50px;
+    
+}
+.contactme:hover{
+    background-color: white;
+    padding:5px;
+
+}
+
+.galary{
+    position:absolute;
+    left: 830px;
+    top:50px;
+   
+}
+
+.galary:hover{
+    background-color: white;
+    padding:5px;
+}
+
+.rem-uline{
+    text-decoration: none;
+}
+
+.middle-container{
+    margin-top: 75px;
+}
+
+
+.gpic1{
+  border: 2px solid black
+}
+
+.gpic2{
+    border: 2px solid black
+}
+
+.gpic3{
+    border: 2px solid black
+}
+
+.gpic4{
+    border: 2px solid black
+}
+
