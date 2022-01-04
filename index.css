@@ -108,9 +108,11 @@ hr{
 
 
 .aboutme{
-    position:absolute;
-    left:630px;
-    top:50px;
+    width: 33%;
+    position:relative;
+    left:auto;
+    right: auto;
+    float: left;
     
 }
 .aboutme:hover{
@@ -120,9 +122,11 @@ hr{
 }
 
 .contactme{
-    position:absolute;
-    left:730px;
-    top:50px;
+    width: 33%;
+    position:relative;
+    left:auto;
+    right: auto;
+    float: left;
     
 }
 .contactme:hover{
@@ -132,9 +136,11 @@ hr{
 }
 
 .galary{
-    position:absolute;
-    left: 830px;
-    top:50px;
+    width: 33%;
+    position:relative;
+    left:auto;
+    right: auto;
+    float: right;
    
 }
 
